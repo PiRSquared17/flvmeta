@@ -1,0 +1,1 @@
+Issues have been moved to https://github.com/noirotm/flvmeta/issues.
